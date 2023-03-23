@@ -4,7 +4,7 @@
 
 ### Introdução à lógica de programação: 
 - Algoritmo 
-- Estruturas de decisão 
+- Estruturas de decisão (https://wiki.sj.ifsc.edu.br/index.php/AULA_de_Introdu%C3%A7%C3%A3o_a_L%C3%B3gica_de_Programa%C3%A7%C3%A3o_-_Comandos_de_Decis%C3%A3o)
 - Estruturas de repetição 
 - Variáveis.
 
