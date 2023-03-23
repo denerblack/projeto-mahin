@@ -2,11 +2,25 @@
 
 ## Conteúdo
 
-### Introdução à lógica de programação: Algoritmos, estruturas de decisão, estruturas de repetição e variáveis.
+### Introdução à lógica de programação: 
+- Algoritmo 
+- Estruturas de decisão 
+- Estruturas de repetição 
+- Variáveis.
 
-### Conceitos básicos de programação: Tipos de dados, operadores, expressões e funções.
+### Conceitos básicos de programação: 
+- Tipos de dados -
+- Operadores
+- Expressões 
+- Funções.
 
-### Introdução a uma linguagem de programação (Ruby): Sintaxe, variáveis, tipos de dados, entrada e saída de dados, operadores e estruturas de controle de fluxo.
+### Introdução a uma linguagem de programação (Ruby): 
+- Sintaxe
+- Variáveis
+- Tipos de dados
+- Entrada e saída de dados
+- Eperadores 
+- Estruturas de controle de fluxo.
 
 
 ### Frameworks
