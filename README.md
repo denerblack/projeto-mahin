@@ -22,6 +22,10 @@
 - Eperadores 
 - Estruturas de controle de fluxo.
 
+### Banco de Dados
+- Tipos de Banco de Dados
+- Linguagem SQL
+
 
 ### Frameworks
 
