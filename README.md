@@ -27,6 +27,50 @@
 - Linguagem SQL
 
 
+### HTML
+
+#### Introdução ao HTML
+- O que é HTML?
+- A estrutura básica de um documento HTML
+- Tags HTML e sua sintaxe
+
+#### Estruturação de Conteúdo
+- Títulos e parágrafos
+- Listas e tabelas
+- Links e âncoras
+
+#### Formulários
+- Criando formulários em HTML
+- Campos de entrada de dados (textos, seleções, botões)
+- Enviando dados para um servidor
+
+### CSS
+
+#### Introdução ao CSS
+- O que é CSS?
+- Anexando um arquivo CSS a um documento HTML
+- Sintaxe de seletores CSS
+
+#### Estilização de elementos
+- Propriedades CSS para estilizar elementos HTML
+- Fontes e textos
+- Cores e fundos
+- Margens e preenchimentos
+
+#### Layouts e posicionamento
+- Modelos de caixa CSS
+- Posicionamento de elementos (estático, relativo, absoluto, fixo)
+- Layouts responsivos
+
+#### Animações e efeitos
+- Transições CSS
+- Animações CSS
+- Efeitos de sombra e gradiente
+
+
+
+
+
 ### Frameworks
 
 #### Ruby On Rails
