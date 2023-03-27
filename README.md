@@ -149,10 +149,10 @@
 - Autenticação e autorização
 - Testes funcionais e de integração
 - Deploy de aplicativos Rails
-- Módulo 5: Recursos avançados
 
-#### Aprendendo Ruby avançado
+#### Recursos avançados
 
+- Aprendendo Ruby avançado
 - Performance e escalabilidade
 - API Rails e desenvolvimento de aplicativos móveis
 - Integração com outras tecnologias (por exemplo, React)
