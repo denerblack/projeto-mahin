@@ -4,7 +4,7 @@
 
 ### Introdução à lógica de programação: 
 - Algoritmo 
-- Estruturas de decisão (https://wiki.sj.ifsc.edu.br/index.php/AULA_de_Introdu%C3%A7%C3%A3o_a_L%C3%B3gica_de_Programa%C3%A7%C3%A3o_-_Comandos_de_Decis%C3%A3o)
+- Estruturas de decisão
 - Estruturas de repetição 
 - Variáveis.
 
@@ -99,7 +99,7 @@
 - Projeto de banco de dados relacional
 - Projeto de banco de dados NoSQL (????)
 
-#### Administração de bancos de dados:
+#### Administração de bancos de dados
 
 - Instalação e configuração de bancos de dados
 - Segurança de bancos de dados
@@ -107,7 +107,7 @@
 - Monitoramento de bancos de dados
 - Replicação e balanceamento de carga
 
-#### Aplicações de bancos de dados:
+#### Aplicações de bancos de dados
 
 - Desenvolvimento de aplicações com bancos de dados
 - Integração de bancos de dados com outras tecnologias
