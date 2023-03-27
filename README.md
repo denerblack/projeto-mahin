@@ -9,7 +9,7 @@
 - Variáveis.
 
 ### Conceitos básicos de programação: 
-- Tipos de dados -
+- Tipos de dados
 - Operadores
 - Expressões 
 - Funções.
@@ -115,16 +115,53 @@
 
 
 
+## Frameworks
 
+### Ruby On Rails
 
+#### Introdução ao Ruby e Rails
 
-### Frameworks
+- O que é Ruby e Rails
+- Instalação do ambiente de desenvolvimento
+- Estrutura do projeto Rails
+- MVC (Model-View-Controller)
+- Roteamento e URLs
+- Criando e executando um aplicativo Rails básico
 
-#### Ruby On Rails
+#### Trabalhando com bancos de dados e modelos
 
+- Configuração do banco de dados
+- Criação e migração de modelos
+- Consultas e associações
+- Validações e callbacks
+- Seed data
 
+#### Views e templates
 
-## Video aulas
+- Templates e layouts
+- Helpers e partials
+- Formulários e validação
+- AJAX e UJS
+
+#### Controladores e rotas
+
+- Controladores e ações
+- Autenticação e autorização
+- Testes funcionais e de integração
+- Deploy de aplicativos Rails
+- Módulo 5: Recursos avançados
+
+#### Aprendendo Ruby avançado
+
+- Performance e escalabilidade
+- API Rails e desenvolvimento de aplicativos móveis
+- Integração com outras tecnologias (por exemplo, React)
+- Desenvolvimento orientado a testes (TDD)
+- Projeto Final
+
+#### Desenvolvimento de um aplicativo completo usando Ruby on Rails
+
+O projeto final incluirá banco de dados, modelos, views, controladores e testes funcionais e de integração.
 
 
 
