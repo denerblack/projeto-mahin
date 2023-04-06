@@ -2,13 +2,13 @@
 
 ## Conteúdo
 
-### Introdução à lógica de programação: 
+### Introdução à lógica de programação (6 horas): 
 - Algoritmo 
 - Estruturas de decisão
 - Estruturas de repetição 
 - Variáveis.
 
-### Conceitos básicos de programação: 
+### Conceitos básicos de programação (6 horas):
 - Tipos de dados
 - Operadores
 - Expressões 
