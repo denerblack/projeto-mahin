@@ -15,6 +15,7 @@
 - Funções.
 
 ### Introdução a uma linguagem de programação (Ruby): 
+(https://www.devmedia.com.br/introducao-ao-recursos-basicos-da-linguagem-ruby/31504)
 - Sintaxe
 - Variáveis
 - Tipos de dados
