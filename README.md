@@ -26,6 +26,7 @@
 ### HTML
 
 #### Introdução ao HTML
+(https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos)
 - O que é HTML?
 - A estrutura básica de um documento HTML
 - Tags HTML e sua sintaxe
