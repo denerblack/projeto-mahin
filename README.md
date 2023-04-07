@@ -16,7 +16,7 @@
 
 ### Introdução a uma linguagem de programação (Ruby) (6 horas): 
 [Artigo] (https://www.devmedia.com.br/introducao-ao-recursos-basicos-da-linguagem-ruby/31504)
-
+[tESTE](url)
 [Vídeo Aulas] (https://www.youtube.com/watch?v=2js9Q_BMD-8&list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ)
 - Sintaxe
 - Variáveis
