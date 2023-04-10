@@ -3,7 +3,7 @@
 ## Conteúdo
 
 ### Introdução à lógica de programação (3 horas): 
-- Algoritmo 
+- Algoritmo [link](https://dicasdeprogramacao.com.br/o-que-e-algoritmo/)
 - Estruturas de decisão
 - Estruturas de repetição 
 - Variáveis.
